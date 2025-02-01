@@ -12,16 +12,16 @@
 - 🏢 I'm a Data Analyst.
 - 👨‍💻I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 💬 Passionate about crafting elegant solutions, I'm an experienced web developer with a strong focus on backend technologies. With a diverse skill set and a commitment to excellence, I thrive in architecting robust and high-performance systems.
+- 💬 Driven by a passion for transforming raw data into actionable insights, I am a dedicated data analyst with a keen eye for detail and a strong foundation in analytical tools. My expertise lies in uncovering trends, optimizing processes, and delivering data-driven solutions that empower decision-making and drive business success
 - 🌌 Beyond the Code:
 I don't just write code; I engineer solutions. Every line I write is a building block in the bridge to tomorrow's digital world. I thrive on challenging the status quo and pushing the limits of what's possible.
 
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 ### Connect with Me :
-<a href="https://www.linkedin.com/in/hammad8/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/m_hammadx" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.facebook.com/hammad60/" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Hammad-385490?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ibraheem-mohamed-8a7086202/" target="_blank"><img src="https://img.shields.io/badge/-Ibraheem%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://www.facebook.com/ibraheemmohame.134254/about?locale=ar_AR/" target="_blank"><img src="https://img.shields.io/badge/-Ibraheem%20Mohamed-385490?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
