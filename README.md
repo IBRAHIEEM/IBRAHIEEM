@@ -27,13 +27,14 @@ I don't just write code; I engineer solutions. Every line I write is a building 
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B77BE?style=flat&logo=seaborn)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
