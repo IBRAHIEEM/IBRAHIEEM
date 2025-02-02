@@ -47,7 +47,6 @@ I don't just write code; I engineer solutions. Every line I write is a building 
 <div align="center">
 <br />
   
-![Visitor Count](https://profile-counter.glitch.me/hammad36/count.svg)
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
